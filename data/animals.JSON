@@ -111,6 +111,17 @@
     },
     {
       "id": "11"
+    },
+    {
+      "name": "Jerry",
+      "species": "Giraffe",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "anxious",
+        "loving",
+        "goofy"
+      ],
+      "id": "12"
     }
   ]
 }
