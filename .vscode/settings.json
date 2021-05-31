@@ -3,5 +3,6 @@
         "Bodhi",
         "Quokka",
         "Sufjan"
-    ]
+    ],
+    "git.ignoreLimitWarning": true
 }
